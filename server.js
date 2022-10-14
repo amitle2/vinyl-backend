@@ -1,12 +1,13 @@
 import express from 'express';
 import mongoose from 'mongoose';
-import Cards from './dbCards.js';
+import Products from './dbProducts.js';
+import Orders from './dbOrders.js';
 import Cors from 'cors';
 
 // App Config
 const app = express ();
-const port = process.env.PORT || 8001;
-const connection_url = `mongodb+srv://admin:uSxX0LJMlEQlHvdV@cluster0.6nv6q.mongodb.net/TinderDB?retryWrites=true&w=majority`;
+const port = process.env.PORT || 3001;
+const connection_url = "mongodb+srv://admin:aa123456@cluster0.qyrekvg.mongodb.net/VinylDB?retryWrites=true&w=majority";
 
 // Middlewares
 app.use(express.json());
@@ -20,8 +21,8 @@ mongoose.connect(connection_url)
 app.get('/', (req, res) => res.status(200).send("Hello World"));
 
 
-app.get("/tinder/cards", (req, res) => {
-    Cards.find((err, data) => {
+app.get("/api/products", (req, res) => {
+    Products.find((err, data) => {
         if (err) {
             res.status(500).send(err)
         } else {
@@ -30,17 +31,38 @@ app.get("/tinder/cards", (req, res) => {
     })
 });
 
-app.post("/tinder/cards", (req, res) => {
-    const dbCards = req.body;
+app.post("/api/products", (req, res) => {
+    const dbProducts = req.body;
 
-    Cards.create(dbCards, (err, data) => {
+    Products.create(dbProducts, (err, data) => {
         if(err) {
             res.status(500).send(err)
         } else{
             res.status(201).send(data)
         }
     })
-})
+});
+
+app.get("/api/orders", (req, res) => {
+    Orders.find((err, data) => {
+        if (err) {
+            res.status(500).send(err)
+        } else {
+            res.status(200).send(data)
+        }
+    })
+});
+
+app.post("/api/orders", (req, res) => {
+    const dbOrders = req.body;
+    Orders.create(dbOrders, (err, data) => {
+        if(err) {
+            res.status(500).send(err)
+        } else{
+            res.status(201).send(data)
+        }
+    })
+});
 
 // Listener
 app.listen(port, () => console.log(`listening on localhost: ${port}`));

@@ -1,0 +1,18 @@
+[
+    {
+        "_id": "631f6b64f481dfeda041f2f8",
+        "name": "ABBA, Voulez-Vous",
+        "description": "Voulez-Vous is sixth studio album by the Swedish supergroup ABBA.",
+        "price": "20.99",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/ABBA_-_Voulez_Vous.jpg/220px-ABBA_-_Voulez_Vous.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "631f6ba5f481dfeda041f2fa",
+        "name": "Michael Jackson, Thriller",
+        "description": "Thriller is the sixth studio album by the American singer and songwriter Michael Jackson, released on November 30, 1982, by Epic Records.",
+        "price": "28.99",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+        "__v": 0
+    }
+]
