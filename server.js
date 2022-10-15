@@ -3,6 +3,7 @@ import mongoose from 'mongoose';
 import Products from './dbProducts.js';
 import Orders from './dbOrders.js';
 import Cors from 'cors';
+var current = new Date();
 
 // App Config
 const app = express ();
@@ -65,4 +66,4 @@ app.post("/api/orders", (req, res) => {
 });
 
 // Listener
-app.listen(port, () => console.log(`listening on localhost: ${port}`));
+app.listen(port, () => console.log(`listening on localhost:${port}, The date: ${current.toLocaleString()}`));
