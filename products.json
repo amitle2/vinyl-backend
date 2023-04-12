@@ -1,0 +1,146 @@
+[
+    {
+        "name": "ABBA, Voulez-Vous",
+        "description": "Voulez-Vous is sixth studio album by the Swedish supergroup ABBA.",
+        "price": "22.99",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/ABBA_-_Voulez_Vous.jpg/220px-ABBA_-_Voulez_Vous.jpg"
+    },
+    {
+        "name": "Michael Jackson, Thriller",
+        "description": "Thriller is the sixth studio album by the American singer and songwriter Michael Jackson, released on November 30, 1982, by Epic Records.",
+        "price": "27.99",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png"
+    },
+    {
+        "name": "Queen, Hot Space",
+        "description": "Hot Space is the tenth studio album by the British rock band Queen. It was released on 21 May 1982 by EMI Records in the UK and by Elektra Records in the US.",
+        "price": "22.99",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/Queen_Hot_Space.png"
+    },
+    {
+        "name": "Led Zeppelin, Led Zeppelin III",
+        "description": "Led Zeppelin III is the third studio album by the English rock band Led Zeppelin, released on 5 October 1970. It was recorded in three locations. Much of the work was done at Headley Grange, a country house, using the Rolling Stones Mobile Studio.",
+        "price": "16.99",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Led_Zeppelin_-_Led_Zeppelin_III.png/220px-Led_Zeppelin_-_Led_Zeppelin_III.png"
+    },
+    {
+        "name": "The Beatles, Abbey Road",
+        "description": "Abbey Road is the 11th studio album released by the English rock band the Beatles.",
+        "price": "23.99",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg"
+    },
+    {
+        "name": "Elvis Presley, Elvis' Golden Records",
+        "description": "Elvis' Golden Records is a compilation album by American rock and roll singer Elvis Presley, issued by RCA Victor in March 1958. It compiled his hit singles released in 1956 and 1957, and is widely believed to be the first greatest hits album in rock and roll history.",
+        "price": "18.99",
+        "image": "http://www.disccenter.co.il/content/products/prodimage_7370.jpg"
+    },
+    {
+        "name": "Elton John, Goodbye Yellow Brick Road",
+        "description": "Goodbye Yellow Brick Road is the seventh studio album by English singer-songwriter Elton John, first released on 5 October 1973 as a double LP.",
+        "price": "17.99",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/86/Elton_John_-_Goodbye_Yellow_Brick_Road.jpg"
+    },
+    {
+        "name": "AC/DC, Highway to Hell",
+        "description": "Highway to Hell is the sixth studio album by Australian hard rock band AC/DC, released on 27 July 1979. It was the last album featuring lead singer Bon Scott, who would die early the following year on 19 February 1980.",
+        "price": "12.99",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Acdc_Highway_to_Hell.JPG/220px-Acdc_Highway_to_Hell.JPG"
+    },
+    {
+        "name": "The Doors, The Doors",
+        "description": "The Doors is the debut studio album by American rock band the Doors, released on January 4, 1967. It was recorded in August 1966 at Sunset Sound Recorders, Hollywood, California, under the production of Paul A. Rothchild. Since its release, the record has been often regarded as one of the greatest debut albums of all time, by both music critics and publishers.",
+        "price": "20.99",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/TheDoorsTheDoorsalbumcover.jpg/220px-TheDoorsTheDoorsalbumcover.jpg"
+    },
+    {
+        "name": "Pink Floyd, The Wall",
+        "description": "Pink Floyd – The Wall is a 1982 British live-action/animated psychological musical drama film directed by Alan Parker, based on Pink Floyd's 1979 album of the same name. The screenplay was written by Pink Floyd vocalist and bassist Roger Waters.",
+        "price": "17.99",
+        "image": "https://upload.wikimedia.org/wikipedia/he/thumb/1/1d/Pink_Floyd_The_Wall.png/250px-Pink_Floyd_The_Wall.png"
+    },
+    {
+        "name": "Led Zeppelin, Led Zeppelin ",
+        "description": "Led Zeppelin is the debut studio album by English rock band Led Zeppelin. It was released on 12 January 1969 in the United States and on 31 March in the United Kingdom by Atlantic Records.",
+        "price": "27.99",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Led_Zeppelin_-_Led_Zeppelin_%281969%29_front_cover.png/220px-Led_Zeppelin_-_Led_Zeppelin_%281969%29_front_cover.png"
+    },
+    {
+        "name": "Stevie Wonder, Songs in the Key of Life",
+        "description": "Months before the recording sessions for Songs in the Key of Life ended, the musicians in Stevie Wonder’s band had T-shirts made up that proclaimed, “We’re almost finished.” It was the stock answer to casual fans and Motown executives and everybody who’d fallen in love with Wonder’s early-Seventies gems – 1972’s Talking Book, 1973’s Innervisions, and 1974’s Fulfillingness’ First Finale – and who had been waiting two years for the next chapter. “I believed there was a lot that needed to be said,” Wonder said. More, in fact, than he could fit onto a double album – also included was a bonus EP, a seven-inch single with four more songs from the sessions.",
+        "price": "22.99",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2020/09/R1344-004-Stevie-Wonder-SONGS-IN-THE-KEY-OF-LIFE.jpg?w=1000"
+    },
+    {
+        "name": "Nirvana, Nevermind",
+        "description": "An overnight-success story of the 1990s, Nirvana’s second album and its totemic ﬁrst single, “Smells Like Teen Spirit,” shot up from the Northwest underground — the nascent grunge scene in Seattle — to kick Michael Jackson’s Dangerous off the top of the Billboard charts and blow hair metal off the map. Few albums have had such an overpowering impact on a generation — a nation of teens suddenly turned punk — and such a catastrophic effect on its main creator. The weight of success led already-troubled singer-guitarist Kurt Cobain to take his own life in 1994.",
+        "price": "29.99",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2020/09/R1344-006-Nirvana-NEVERMIND-HR.jpg"
+    },
+    {
+        "name": "The Beatles, Revolver",
+        "description": "Revolver was the sound of the Beatles fully embracing the recording studio as a sonic canvas, free to pursue musical ideas and possibilities that would reshape rock forever. It speaks volumes that the first song the band worked on upon entering Abbey Road studios in April 1966 would have been impossible to replicate live — a swirl of hazy guitar, backward tape loops, kaleidoscopic drum tumble, and John Lennon’s voice recorded to sound like “the Dalai Lama singing from the highest mountaintop.” They titled it “The Void” and later renamed it “Tomorrow Never Knows.” “I was wondering how George Martin would take it,” Paul McCartney later recalled. Martin’s response: “Jolly interesting.”",
+        "price": "27.99",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2020/09/R1344-011-BeatlesREVOLVER-updated.jpg"
+    },
+    {
+        "name": "The Rolling Stones, Exile on Main Street",
+        "description": "A dirty whirl of basement blues and punk boogie, the Rolling Stones’ 1972 double LP was, according to Keith Richards, “maybe the best thing we did.” Indeed, inside its deliberately dense squall — Richards’ and Mick Taylor’s dogﬁght riffing, the lusty jump of the Bill Wyman–Charlie Watts rhythm engine, Mick Jagger’s caged-animal bark and burned-soul croon — is the Stones’ greatest album and Jagger and Richards’ deﬁnitive songwriting statement of outlaw pride and dedication to grit and cold-morning redemption.",
+        "price": "23.99",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2020/09/R1344-014-Rolling-Stones-EXILE-ON-MAIN-ST.jpg"
+    },
+    {
+        "name": "Amy Winehouse, Back to Black",
+        "description": "With her love of Sixties girl-group pop and her dark beehive, Amy Winehouse came across as a star from another time. But as a child of the Nineties, she also loved hip-hop and wrote openly about her splattered relationships and issues with drugs and alcohol. Her breakthrough second album (recorded in Brooklyn with co-producers Mark Ronson and Salaam Remi) marked the arrival of a resplendently damaged 21st-century torch singer. Tracks like the mildly pushy “You Know I’m No Good” and the sumptuous “Love Is a Loving Game” had an elegant, beguiling smudginess that avoided the wax-museum quality of so much retro soul. “My odds are stacked,” Winehouse sings. “I’ll go back to black.” Indeed, the pain and tumult in her voice was very real. Before her death in 2011, she left behind a tragically unfulfilled promise.",
+        "price": "25.99",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2020/09/R1344-033-Amy-Winehouse-Back-to-Black.jpg"
+    },
+    {
+        "name": "Bob Marley and the Wailers, Legend",
+        "description": "Bob Marley said, “Reggae music too simple for [American musicians]. You must be inside of it, know what’s happening, and why you want to play this music. You don’t just run to play this music because you think you can make a million off it.” Ironically, this set of the late reggae idol’s greatest hits has sold in the millions. On a single disc, it captures everything that made him an international icon: his nuanced songcraft, his political message, and — of course — the universal soul he brought to Jamaican rhythm and Rastafarian spirituality in the gunfighter ballad “I Shot the Sheriff,” the comforting swing of “No Woman, No Cry,” and the holy promise of “Redemption Song.”",
+        "price": "31.99",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2020/09/R1344-048-Bob-Marley-and-the-Wailers-Legend.jpg"
+    },
+    {
+        "name": "Pink Floyd, The Dark Side of the Moon",
+        "description": "As a culmination of their inner-space explorations of the early 1970s, the Floyd toured the bulk of Dark Side in Britain for months prior to recording. But in the studio, the band articulated bassist Roger Waters’ reveries on the madness of everyday life with melodic precision (“Breathe,” “Us and Them”) and cinematic luster (Clare Torry’s guest vocal aria “The Great Gig in the Sky”). Dark Side is one of the best-produced rock albums ever, and “Money” may be rock’s only Top 20 hit in 7/4 time.",
+        "price": "17.99",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2020/09/R1344-055-Pink-Floyd-Dark-Side-of-the-Moon.jpg"
+    },
+    {
+        "name": "Guns N’ Roses, Appetite for Destruction",
+        "description": "The biggest-selling debut album of the Eighties, Appetite hit the metal scene like an asteroid, bringing the grit and fury of Seventies rock back to a mainstream hard-rock scene that was starved for something real. Indiana-bred Axl Rose’s five-alarm yowl bowled over listeners. Guitarist Slash gave the band blues emotion and punk energy, while the rhythm section brought the funk on hits such as “Welcome to the Jungle.” When all the elements came together, as in the final two minutes of “Paradise City,” GN’R left all other Eighties metal bands in the dust, and they knew it, too. “A lot of rock bands are too fucking wimpy to have any sentiment or any emotion,” Rose said. “Unless they’re in pain.”",
+        "price": "16.99",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2020/09/R1344-062-Guns-N-Roses-Appetite-for-Destruction.jpg"
+    },
+    {
+        "name": "Michael Jackson, Bad",
+        "description": "After Thriller turned Michael Jackson into an international pop phenomenon, he spent two years of work on the follow-up. The title song came with a 17-minute video by Martin Scorsese that cost $2 million. Bad gave Jackson more hits to add to his collection: “I Just Can’t Stop Loving You,” “Bad,” “The Way You Make Me Feel,” and “Man in the Mirror.” He also began to vent some of his darker emotions on “Smooth Criminal” and the paranoid “Dirty Diana.” Not long afterward, Jackson would retreat to his Neverland ranch.",
+        "price": "22.99",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2020/09/R1344-194-Michael-Jackson-Bad.jpg"
+    },
+    {
+        "name": "The Beatles, Help!",
+        "description": "The moptops’ second movie was a Swinging London goof, but the soundtrack included the classics “You’ve Got to Hide Your Love Away” and “Ticket to Ride,” as well as the lovely “I’ve Just Seen a Face.” And, of course, Paul McCartney’s “Yesterday,” recorded without the help of any other Beatles, became the most widely covered song in pop-music history. The sense of confidence and possibility paved the way for the Beatles’ next stop: Rubber Soul.",
+        "price": "24.99",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2020/09/R1344-266-BeatlesHELP.jpg"
+    },
+    {
+        "name": "Depeche Mode, Violator",
+        "description": "One of England’s first synth-pop bands, Depeche Mode had moved beyond their bubblegum phase by the time of their seventh album and, under the influence of hip-hop, began playing with samples and loops, even betraying their keyboard roots with the twangy guitar that opens “Personal Jesus.” Alan Wilder created the dense, constantly shifting arrangements, Martin Gore wrote the pervy lyrics, and Dave Gahan croons implacably about betrayal, immorality, and sexual domination. The percolating “Enjoy the Silence” became their only U.S. Top 10 single, and “Policy of Truth” did almost as well. With its panoply of high-gloss hooks and arresting, artificial sounds, Violator cemented Depeche Mode’s status as the first electronic band that could fill stadiums.",
+        "price": "28.99",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2020/09/R1344-167-Depeche-Mode-Violator.jpg"
+    },
+    {
+        "name": "Led Zeppelin, Houses of the Holy",
+        "description": "Led Zeppelin stuck close to their core sound on earlier albums — supercharged blues, celestial folk — but here they got into a groove. “D’yer Mak’er” (rhymes with “Jamaica”) is their version of reggae, and “The Crunge” is a tribute to James Brown. The band also indulged its cosmic side with “The Rain Song” (featuring one of Robert Plant’s most amazing vocals), “The Song Remains the Same,” and the Viking death chant “No Quarter.”",
+        "price": "21.99",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2020/09/R1344-278-Led-Zeppelin-Houses-of-the-Holy.jpg"
+    },
+    {
+        "name": "Bee Gees, Saturday Night Fever",
+        "description": "Saturday Night Fever is the soundtrack album from the 1977 film Saturday Night Fever starring John Travolta. The soundtrack was released on November 15, 1977. It is one of the best-selling albums in history, and remains the second-biggest-selling soundtrack of all time, after The Bodyguard, selling over 40 million copies worldwide.",
+        "price": "24.99",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/TheBeeGeesSaturdayNightFeveralbumcover.jpg/220px-TheBeeGeesSaturdayNightFeveralbumcover.jpg"
+    }
+]

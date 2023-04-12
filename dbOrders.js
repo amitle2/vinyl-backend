@@ -4,7 +4,7 @@ import mongoose from 'mongoose'
 const orderSchema = mongoose.Schema({
     user: {
         name: String,
-        adress: String,
+        address: String,
         email: String
         },
     orderedItems: [{
@@ -12,7 +12,8 @@ const orderSchema = mongoose.Schema({
         amount: String,
         price: String
         }],
-    date: String
+    date: String,
+    price: String
 });
 
 export default mongoose.model("orders", orderSchema);
